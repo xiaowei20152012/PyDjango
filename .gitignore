@@ -24,7 +24,19 @@ media
 .idea/**/uiDesigner.xml
 .idea/**/gradle.xml
 .idea/**/libraries
+.idea/**/profiles_settings.xml
+.idea/PyDjango.iml
+.idea/vcs.xml
+.idea/misc.xml
 *.iws /out/
+
+
+#project
+app/**/__init__.py
+app/__init__.py
+appTest/__init__.py
+appTest/**/__init__.py
+
 
 # Python #
 *.py[cod]

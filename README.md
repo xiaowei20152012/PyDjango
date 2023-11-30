@@ -12,3 +12,8 @@ this example use python3.12
     project： PYDJANGO
     
 ...
+
+###
+python3.12 manage.py runserver 0.0.0.0:9000
+
+python3.12 manage.py migrate
